@@ -1,1 +1,0 @@
-# NYT-React-Google-Search
