@@ -27,7 +27,7 @@ app.get('*', function (req, res) {
 
 // Connect to the Mongo DB
 var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/reacthealthtracker";
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/nytreact");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/googlebooks");
 
 // Connect to the Mongo DB
 mongoose.Promise = Promise;
