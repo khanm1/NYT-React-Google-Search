@@ -9,6 +9,7 @@ function Input(props) {
       <input className="form-control" type="text" {...props} />
     </div>
   );
+  
 }
 
 export default Input;
