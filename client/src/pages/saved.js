@@ -1,6 +1,5 @@
 import React, { Component } from "react";
  
-import Nav from "../components/Nav";
  
 import API from "../utils/API";
 import { RecipeList, RecipeListItem } from "../components/RecipeList";

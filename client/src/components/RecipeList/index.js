@@ -13,7 +13,6 @@ export function RecipeList({ children }) {
 export function RecipeListItem({
 
   book,
-
   title,
   subtitle,
   link,
